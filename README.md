@@ -6,6 +6,8 @@ Donations are accepted in bitcoin: [https://orange.surf/donations](https://orang
 
 ![](/images/weighted-die.png)
 
+![](/images/weighted-die-printed.jpg)
+
 # Files & Documentation 
 - [stl files](/stl)
 - [step files](/step)
