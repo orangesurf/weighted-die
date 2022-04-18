@@ -1,4 +1,4 @@
-# OrangeSurf SeedSigner Case
+# OrangeSurf Weighted Die
 FDM weighted die by OrangeSurf (https://orange.surf)
 
 ## Donations 
