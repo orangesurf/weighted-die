@@ -8,11 +8,7 @@ When adding information, please provide a brief entry with a date and the nature
 
 Date using ISO 8601 (YYYY-MM-DD)
 
-2022-01-26
+2022-04-18
 - Initial release by OrangeSurf (https://orange.surf)
-
-2022-01-27 
-- Add step files (OrangeSurf)
-- Add drawing of measured ZeroCam camera and links to products
-- Modify print settings to include no supports required
-- Add the PCB separation distance case is designed for (9mm)
+- v01 sharp edges (casino style)
+- v03 chamfered edges
