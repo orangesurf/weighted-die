@@ -12,3 +12,7 @@ Date using ISO 8601 (YYYY-MM-DD)
 - Initial release by OrangeSurf (https://orange.surf)
 - v01 sharp edges (casino style)
 - v03 chamfered edges
+
+2022-04-19
+- v04 captured m8 nut version
+- Updated readme & recommended print settings
